@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFileBatchUploader", "..\LogFileBatchUploader\LogFileBatchUploader.csproj", "{83A096CB-5282-4E87-B25B-4DE99DBEE6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFileTest", "..\LogFileTest\LogFileTest.csproj", "{30E2D201-EB3A-41D5-AB8A-CA3DA75F1FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogfileApi", "..\LogfileApi\LogfileApi.csproj", "{34168B96-AF1B-4A1C-BCA4-07C550B603AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A096CB-5282-4E87-B25B-4DE99DBEE6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A096CB-5282-4E87-B25B-4DE99DBEE6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A096CB-5282-4E87-B25B-4DE99DBEE6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A096CB-5282-4E87-B25B-4DE99DBEE6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E2D201-EB3A-41D5-AB8A-CA3DA75F1FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E2D201-EB3A-41D5-AB8A-CA3DA75F1FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E2D201-EB3A-41D5-AB8A-CA3DA75F1FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E2D201-EB3A-41D5-AB8A-CA3DA75F1FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34168B96-AF1B-4A1C-BCA4-07C550B603AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34168B96-AF1B-4A1C-BCA4-07C550B603AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34168B96-AF1B-4A1C-BCA4-07C550B603AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34168B96-AF1B-4A1C-BCA4-07C550B603AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

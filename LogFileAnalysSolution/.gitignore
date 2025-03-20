@@ -1,0 +1,5 @@
+.vs/**
+.TodoApi/bin/**
+.TodoApi/obj/**
+.DataMigration/DataMigration/obj/**
+.DataMigration/DataMigration/bin/**

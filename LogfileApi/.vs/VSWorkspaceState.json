@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\obj\\Release",
+    "\\obj\\Release\\net8.0",
+    "\\obj\\Release\\net8.0\\ref",
+    "\\obj\\Release\\net8.0\\refint",
+    "\\Properties"
+  ],
+  "SelectedNode": "\\Controllers\\LogFileItemsController.cs",
+  "PreviewInSolutionExplorer": false
+}
